@@ -4,7 +4,7 @@
 }
 #imgJs{
     position: fixed;
-    width: 300px;
+    width: 150px;
     padding-left: 10px;
     padding-top: 10px;
 }
@@ -13,7 +13,6 @@ body{
     background-color: #182838;
 }
 .container{
-    padding-top:  15px;
     display: flex;
     justify-content: center;
     align-items: center;
