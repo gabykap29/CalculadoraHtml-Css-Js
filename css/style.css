@@ -19,6 +19,7 @@ body{
     height: 100vh;
 }
 .calculadora{
+    position: absolute;
     display: grid;
     grid-template-columns: repeat(4,75px);
     grid-template-rows: 160px repeat(5,75px);
